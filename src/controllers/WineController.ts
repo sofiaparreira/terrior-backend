@@ -65,7 +65,17 @@ export async function deleteWine(req: Request, res: Response) {
 
 export async function updateWine(req: Request, res: Response) {
     try {
-        
+        const data = req.body
+        const id = req.params.id
+
+        const wine = await WineModel.findById(id);
+
+        if(!wine) {
+            return res.status(404).json({message: "Anúncio não encontrado"})
+        }
+
+        await WineModel.updateOne({_id: id}, data);
+        return res.status(200).json(data);
     } catch (error) {
         
     }

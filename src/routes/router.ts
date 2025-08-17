@@ -14,4 +14,4 @@ export default router
     .get("/wine/:id", findWineById)
     .get("/wine", getAllWines)
     .delete("/wine/:id", deleteWine)
-    .put("wine/:id", updateWine)
+    .patch("/wine/:id", updateWine)
