@@ -356,3 +356,79 @@
 2025-08-17 10:31:22 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
 2025-08-17 10:31:24 - [35mhttp[39m: [35mPOST /api/wine 422 - - 10.199 ms[39m
 [35m[39m
+2025-08-17 10:33:23 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:33:23 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:34:05 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:34:05 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:38:32 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:38:32 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:38:34 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:38:34 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:38:36 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:38:36 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:38:41 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:38:41 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:38:48 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:38:48 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:38:54 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:38:54 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:38:57 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:38:57 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:39:04 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:39:04 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:39:07 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:39:07 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:39:23 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:39:23 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:39:25 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:39:25 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:39:41 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:39:41 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:39:47 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:39:47 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:39:49 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:39:49 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:39:51 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:39:51 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:40:03 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:40:03 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:40:05 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:40:05 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:40:20 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:40:20 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:40:51 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:40:51 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:42:03 - [35mhttp[39m: [35mPOST /api/wine 422 - - 34.465 ms[39m
+[35m[39m
+2025-08-17 10:42:34 - [35mhttp[39m: [35mPOST /api/wine 422 - - 3.186 ms[39m
+[35m[39m
+2025-08-17 10:42:58 - [35mhttp[39m: [35mPOST /api/wine 422 - - 2.070 ms[39m
+[35m[39m
+2025-08-17 10:45:17 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:45:17 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:45:19 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:45:19 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:45:23 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:45:23 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:45:27 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:45:27 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:45:28 - [35mhttp[39m: [35mPOST /api/wine 422 - - 11.825 ms[39m
+[35m[39m
+2025-08-17 10:45:52 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:45:52 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:45:53 - [35mhttp[39m: [35mPOST /api/wine 200 - - 357.809 ms[39m
+[35m[39m
+2025-08-17 10:54:15 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:54:15 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:54:44 - [35mhttp[39m: [35mGET /api/wine/68a1dd10ce183ae3cf9e77b2 - - - - ms[39m
+[35m[39m
+2025-08-17 10:54:45 - [35mhttp[39m: [35mGET /api/wine 404 - - 5.249 ms[39m
+[35m[39m
+2025-08-17 10:55:33 - [35mhttp[39m: [35mGET /api/wine/68a1dd10ce183ae3cf9e77b2 - - - - ms[39m
+[35m[39m
+2025-08-17 10:55:46 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:55:46 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:56:07 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 10:56:07 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 10:56:07 - [35mhttp[39m: [35mGET /api/wine/68a1dd10ce183ae3cf9e77b2 200 - - 90.687 ms[39m
+[35m[39m

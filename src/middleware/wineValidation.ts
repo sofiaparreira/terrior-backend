@@ -61,19 +61,19 @@ export const wineCreateValidation = () => {
         body("volume")
             .isNumeric()
             .withMessage("Valor do volume inválido")
-            .isLength({min: 187, max: 1500 })
+            .isInt({min: 187, max: 1500 })
             .withMessage("O volume precisa estar entre 187 ml e 1,5 L"),
 
         body("alcoholContent")    
             .isNumeric()
             .withMessage("Teor alcoólico inválido")
-            .isLength({min: 5, max: 20})
+            .isInt({min: 5, max: 20})
             .withMessage("O teor alcoólico precisa estar entre 5% e 20%"),
         
         body("quantity")
             .isNumeric()
             .withMessage("Quantidade inválida")
-            .isLength({min: 1})
+            .isInt({min: 1})
             .withMessage("O valor mínimo da quantidade é 1"),
 
         body("imageUrl")
