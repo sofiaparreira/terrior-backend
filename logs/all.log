@@ -598,3 +598,39 @@
 [35m[39m
 2025-08-17 11:37:31 - [35mhttp[39m: [35mGET /api/wine 200 - - 49.663 ms[39m
 [35m[39m
+2025-08-17 13:32:53 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 13:32:53 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 13:33:41 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 13:33:41 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 13:55:54 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 13:55:54 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 13:55:57 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 13:55:57 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 14:29:00 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 14:29:00 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 14:30:33 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 14:30:33 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 14:36:01 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 14:36:01 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 14:42:45 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 14:42:45 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 14:42:48 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 14:42:48 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 14:42:52 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 14:42:52 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 14:45:58 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 14:45:58 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 14:46:51 - [35mhttp[39m: [35mPOST /api/auth/register 422 - - 58.892 ms[39m
+[35m[39m
+2025-08-17 14:47:23 - [35mhttp[39m: [35mPOST /api/auth/register 422 - - 43.595 ms[39m
+[35m[39m
+2025-08-17 14:47:33 - [35mhttp[39m: [35mPOST /api/auth/register 422 - - 41.922 ms[39m
+[35m[39m
+2025-08-17 14:48:24 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 14:48:24 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 14:48:26 - [35mhttp[39m: [35mPOST /api/auth/register 422 - - 101.230 ms[39m
+[35m[39m
+2025-08-17 14:48:32 - [35mhttp[39m: [35mPOST /api/auth/register 200 - - 230.372 ms[39m
+[35m[39m
+2025-08-17 14:50:58 - [35mhttp[39m: [35mPOST /api/auth/login 200 - - 166.525 ms[39m
+[35m[39m

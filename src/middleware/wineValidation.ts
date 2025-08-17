@@ -49,14 +49,10 @@ export const wineCreateValidation = () => {
                 }
                 return true;
             }),
-
-
         
         body("description")
             .isLength({max: 255})
-            .withMessage("O campo descrição pode ter no máximo 255 caracteres"),
-        
-        
+            .withMessage("O campo descrição pode ter no máximo 255 caracteres"), 
        
         body("volume")
             .isNumeric()
