@@ -7,6 +7,7 @@ import morganMiddleware from "./middleware/morganMiddleware";
 import wineRouter from "./routes/wineRouter";
 import userRouter from "./routes/userRouter";
 import orderRouter from "./routes/orderRouter";
+import cartRouter from "./routes/cartRouter";
 
 
 const app = express();
@@ -19,7 +20,7 @@ app.use(morganMiddleware)
 app.use('/api/', wineRouter)
 app.use('/api/auth/', userRouter)
 app.use('/api/', orderRouter)
-
+app.use('/api/', cartRouter)
 
 app.listen(3000, async () => {
     await db();

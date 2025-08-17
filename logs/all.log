@@ -706,3 +706,83 @@
 2025-08-17 17:09:39 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
 2025-08-17 17:09:43 - [35mhttp[39m: [35mPOST /api/order 200 - - 63.857 ms[39m
 [35m[39m
+2025-08-17 17:11:07 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:11:07 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:22:25 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:22:25 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:22:49 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:22:49 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:25:31 - [35mhttp[39m: [35mPOST /api/cart - - - - ms[39m
+[35m[39m
+2025-08-17 17:26:24 - [35mhttp[39m: [35mPOST /api/cart - - - - ms[39m
+[35m[39m
+2025-08-17 17:26:40 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:26:40 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:28:15 - [35mhttp[39m: [35mPOST /api/cart - - - - ms[39m
+[35m[39m
+2025-08-17 17:28:17 - [35mhttp[39m: [35mPOST /api/cart - - - - ms[39m
+[35m[39m
+2025-08-17 17:28:40 - [35mhttp[39m: [35mGET /api/wine 200 - - 115.504 ms[39m
+[35m[39m
+2025-08-17 17:28:52 - [35mhttp[39m: [35mPOST /api/auth/login 200 - - 197.013 ms[39m
+[35m[39m
+2025-08-17 17:29:25 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:29:25 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:29:29 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:29:29 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:29:29 - [35mhttp[39m: [35mPOST /api/cart 200 - - 55.095 ms[39m
+[35m[39m
+2025-08-17 17:29:36 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:29:36 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:29:37 - [35mhttp[39m: [35mPOST /api/cart 200 - - 60.634 ms[39m
+[35m[39m
+2025-08-17 17:29:42 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:29:42 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:30:29 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:30:29 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:30:48 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:30:48 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:30:50 - [35mhttp[39m: [35mPOST /api/cart - - - - ms[39m
+[35m[39m
+2025-08-17 17:30:54 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:30:54 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:30:58 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:30:58 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:31:02 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:31:02 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:31:07 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:31:07 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:31:12 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:31:12 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:31:14 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:31:15 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:31:17 - [35mhttp[39m: [35mPOST /api/cart - - - - ms[39m
+[35m[39m
+2025-08-17 17:31:21 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:31:21 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:31:55 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:31:55 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:32:45 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:32:45 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:32:50 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:32:50 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:33:07 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:33:07 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:33:10 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:33:10 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:33:13 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:33:13 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 20:52:05 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 20:52:05 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 20:52:40 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 20:52:40 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 20:52:49 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 20:52:49 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 20:52:49 - [35mhttp[39m: [35mPOST /api/cart 200 - - 835.727 ms[39m
+[35m[39m
+2025-08-17 20:52:57 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 20:52:57 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 20:53:36 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 20:53:36 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 20:53:37 - [35mhttp[39m: [35mPOST /api/cart 200 - - 197.509 ms[39m
+[35m[39m
