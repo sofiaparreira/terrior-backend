@@ -1,5 +1,5 @@
 import {Router, Request, Response} from "express"
-import { createWine, findWineById } from "../controllers/WineController";
+import { createWine, findWineById, getAllWines } from "../controllers/WineController";
 import { validate } from '../middleware/handleValidation'
 import { wineCreateValidation } from "../middleware/wineValidation";
 
@@ -12,3 +12,4 @@ export default router
 })
     .post("/wine", wineCreateValidation(), validate, createWine)
     .get("/wine/:id", findWineById)
+    .get("/wine", getAllWines)

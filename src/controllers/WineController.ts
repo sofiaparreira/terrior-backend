@@ -27,3 +27,16 @@ export async function findWineById(req: Request, res: Response) {
         Logger.error(`Erro no sistema: ${error.message}`)
     }
 }
+
+
+export async function getAllWines(req: Request, res: Response) {
+    try {
+        const wines = await WineModel.find()
+        if(!wines) {
+            return res.status(404).json({message: "Você não tem nenhum vinho cadastrado"})
+        }
+        return res.status(200).json(wines)
+    } catch (e: any) {
+        Logger.error(`Erro no sistema: ${e.message}`)
+    }
+}

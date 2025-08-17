@@ -432,3 +432,23 @@
 2025-08-17 10:56:07 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
 2025-08-17 10:56:07 - [35mhttp[39m: [35mGET /api/wine/68a1dd10ce183ae3cf9e77b2 200 - - 90.687 ms[39m
 [35m[39m
+2025-08-17 11:22:24 - [31merror[39m: [31mNão foi possível conectar[39m
+2025-08-17 11:22:24 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-08-17 11:22:24 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 11:22:36 - [31merror[39m: [31mErro no sistema: Operation `wines.find()` buffering timed out after 10000ms[39m
+2025-08-17 11:22:44 - [35mhttp[39m: [35mGET /api/wine - - - - ms[39m
+[35m[39m
+2025-08-17 11:23:00 - [31merror[39m: [31mNão foi possível conectar[39m
+2025-08-17 11:23:00 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-08-17 11:23:00 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 11:23:10 - [35mhttp[39m: [35mGET /api/wine - - - - ms[39m
+[35m[39m
+2025-08-17 11:23:12 - [31merror[39m: [31mErro no sistema: Operation `wines.find()` buffering timed out after 10000ms[39m
+2025-08-17 11:24:27 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 11:24:27 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 11:24:28 - [35mhttp[39m: [35mGET /api/wine 200 - - 56.268 ms[39m
+[35m[39m
+2025-08-17 11:24:40 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 11:24:40 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 11:24:41 - [35mhttp[39m: [35mGET /api/wine 200 - - 44.114 ms[39m
+[35m[39m

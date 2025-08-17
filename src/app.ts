@@ -2,7 +2,7 @@ require("dotenv").config();
 import express from "express"
 import config from "config"
 import db from '../config/db'
-import router from "./routers/router";
+import router from "./routes/router";
 import Logger from "../config/logger";
 import morganMiddleware from "./middleware/morganMiddleware";
 

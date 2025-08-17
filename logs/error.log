@@ -1,0 +1,6 @@
+2025-08-17 11:22:24 - [31merror[39m: [31mNão foi possível conectar[39m
+2025-08-17 11:22:24 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-08-17 11:22:36 - [31merror[39m: [31mErro no sistema: Operation `wines.find()` buffering timed out after 10000ms[39m
+2025-08-17 11:23:00 - [31merror[39m: [31mNão foi possível conectar[39m
+2025-08-17 11:23:00 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-08-17 11:23:12 - [31merror[39m: [31mErro no sistema: Operation `wines.find()` buffering timed out after 10000ms[39m
