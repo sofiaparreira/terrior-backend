@@ -2,7 +2,7 @@ import { Schema, model } from "mongoose";
 
 const orderSchema = new Schema(
   {
-    user: {
+    user_id: {
       type: Schema.Types.ObjectId,
       ref: "User",
       required: true,
@@ -22,7 +22,7 @@ const orderSchema = new Schema(
 
     items: [
       {
-        wine: {
+        wine_id: {
           type: Schema.Types.ObjectId,
           ref: "Wine",
           required: true,

@@ -7,7 +7,7 @@ import Logger from "../../config/logger";
 export async function createOrder(req: Request, res: Response) {
     try {
         const data = req.body;
-        const { user, items } = data;
+        const { user_id, items } = data;
 
         if (!items || items.length === 0) {
             return res.status(400).json({ error: "O pedido precisa ter pelo menos um item" });
@@ -19,11 +19,11 @@ export async function createOrder(req: Request, res: Response) {
 
 
         const orderData = {
-            user,
+            user_id,
             status: "pending",
             total_value: mongoose.Types.Decimal128.fromString(totalValue.toFixed(2)),
             items: items.map((item: any) => ({
-                wine: item.wine,
+                wine_id: item.wine_id,
                 quantity: item.quantity,
                 unit_price: mongoose.Types.Decimal128.fromString(item.unit_price.toFixed(2)),
             }))

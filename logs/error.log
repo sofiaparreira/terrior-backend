@@ -5,3 +5,4 @@
 2025-08-17 11:23:00 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
 2025-08-17 11:23:12 - [31merror[39m: [31mErro no sistema: Operation `wines.find()` buffering timed out after 10000ms[39m
 2025-08-17 16:39:37 - [31merror[39m: [31mErro ao fazer login: Cannot destructure property 'email' of 'req.body' as it is undefined.[39m
+2025-08-17 17:08:16 - [31merror[39m: [31mErro ao criar pedido: Order validation failed: user_id: Path `user_id` is required., items.0.wine_id: Path `wine_id` is required.[39m

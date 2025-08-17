@@ -671,3 +671,38 @@
 [35m[39m
 2025-08-17 16:47:44 - [35mhttp[39m: [35mGET /api/wine 200 - - 63.901 ms[39m
 [35m[39m
+2025-08-17 16:49:40 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:49:40 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:50:35 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:50:36 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:50:43 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:50:43 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:51:53 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:51:53 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:51:56 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:51:56 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:01:04 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:01:04 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:03:28 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:03:28 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:03:38 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:03:38 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:03:43 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:03:43 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:06:53 - [35mhttp[39m: [35mPOST /api/wine 200 - - 68.946 ms[39m
+[35m[39m
+2025-08-17 17:08:04 - [35mhttp[39m: [35mPOST /api/order 422 - - 2.356 ms[39m
+[35m[39m
+2025-08-17 17:08:16 - [31merror[39m: [31mErro ao criar pedido: Order validation failed: user_id: Path `user_id` is required., items.0.wine_id: Path `wine_id` is required.[39m
+2025-08-17 17:08:16 - [35mhttp[39m: [35mPOST /api/order 500 - - 14.352 ms[39m
+[35m[39m
+2025-08-17 17:09:28 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:09:28 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:09:31 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:09:31 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:09:34 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:09:34 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:09:39 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 17:09:39 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 17:09:43 - [35mhttp[39m: [35mPOST /api/order 200 - - 63.857 ms[39m
+[35m[39m
