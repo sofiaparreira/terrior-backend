@@ -4,3 +4,4 @@
 2025-08-17 11:23:00 - [31merror[39m: [31mNão foi possível conectar[39m
 2025-08-17 11:23:00 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
 2025-08-17 11:23:12 - [31merror[39m: [31mErro no sistema: Operation `wines.find()` buffering timed out after 10000ms[39m
+2025-08-17 16:39:37 - [31merror[39m: [31mErro ao fazer login: Cannot destructure property 'email' of 'req.body' as it is undefined.[39m

@@ -634,3 +634,40 @@
 [35m[39m
 2025-08-17 14:50:58 - [35mhttp[39m: [35mPOST /api/auth/login 200 - - 166.525 ms[39m
 [35m[39m
+2025-08-17 14:51:26 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 14:51:26 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 14:51:35 - [35mhttp[39m: [35mPOST /api/auth/login 404 - - 61.026 ms[39m
+[35m[39m
+2025-08-17 16:03:02 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:03:02 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:34:43 - [35mhttp[39m: [35mGET /api/wine 200 - - 93.153 ms[39m
+[35m[39m
+2025-08-17 16:38:21 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:38:21 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:38:33 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:38:33 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:38:37 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:38:37 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:39:37 - [31merror[39m: [31mErro ao fazer login: Cannot destructure property 'email' of 'req.body' as it is undefined.[39m
+2025-08-17 16:39:37 - [35mhttp[39m: [35mPOST /api/auth/login 500 - - 5.143 ms[39m
+[35m[39m
+2025-08-17 16:40:07 - [35mhttp[39m: [35mPOST /api/auth/login 200 - - 144.631 ms[39m
+[35m[39m
+2025-08-17 16:41:11 - [35mhttp[39m: [35mPOST /api/order - - - - ms[39m
+[35m[39m
+2025-08-17 16:41:18 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:41:18 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:42:29 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:42:29 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:42:32 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:42:32 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:43:07 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:43:07 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:43:11 - [35mhttp[39m: [35mPOST /api/order 422 - - 7.747 ms[39m
+[35m[39m
+2025-08-17 16:47:33 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-17 16:47:33 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-17 16:47:36 - [35mhttp[39m: [35mPOST /api/order 200 - - 72.563 ms[39m
+[35m[39m
+2025-08-17 16:47:44 - [35mhttp[39m: [35mGET /api/wine 200 - - 63.901 ms[39m
+[35m[39m
