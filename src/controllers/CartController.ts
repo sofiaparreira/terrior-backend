@@ -58,16 +58,30 @@ export async function deleteCartItem(req: Request, res: Response) {
     }
 }
 
-// export async function updateCartItemQuantity(req: Request, res: Response) {
-//     try {
-//         const userId = req.user!.id;
-//         const wineId = req.params.wineId;
-//         const {quantity} = req.body;
+export async function updateCartItemQuantity(req: Request, res: Response) {
+    try {
+        const userId = req.user!.id;
+        const wineId = req.params.wineId;
+        const {quantity} = req.body;
 
-//         if(!quantity || quantity < 1){
-//             await 
-//         }
-//     } catch (error) {
-        
-//     }
-// }
+        if(!quantity || quantity < 1){
+            await deleteCartItem(req, res);
+        }
+
+        const cart = await CartModel.findOne({ user_id: userId});
+        if(!cart) {
+            return res.status(404).json({error: "Usuário não encontrado, tente fazer login novamnete"})
+        }
+
+        const item = cart.items.find((item) => item.wine_id.toString() === wineId);
+        if(!item) {
+            return res.status(404).json({error: "Item não encontrado no carrinho"});
+        }
+        item.quantity = quantity;
+        await cart.save();
+        return res.status(200).json(cart);
+    } catch (e:any) {
+        Logger.error(`Erro ao atualizar quantidade no carrinho ${e.message}`);
+        return res.status(500).json({error: "Erro ao atualizar item do carrinho"})
+    }
+}
