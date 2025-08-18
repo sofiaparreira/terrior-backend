@@ -36,3 +36,38 @@ export async function getCartByUser(req: Request, res: Response) {
         return res.status(500).json({ error: "Erro ao mostrar ao carrinho, contate o suporte" });
     }
 }
+
+export async function deleteCartItem(req: Request, res: Response) {
+    try {
+        const userId = req.user!.id;
+        const wineId = req.params.id;
+
+        const cart = await CartModel.findOne({ user_id: userId});
+        if(!cart) {
+            return res.status(404).json({error: "Usuário não encontrado para acessar os itens do carrinho"})
+        }
+
+
+          cart.items.pull({ wine_id: wineId});
+          await cart.save();
+          return res.status(200).json(cart)
+
+    }  catch (e: any) {
+        Logger.error(`Erro ao remover item do carrinho: ${e.message}`);
+        return res.status(500).json({ error: "Erro ao remover item do carrinho, contate o suporte" });
+    }
+}
+
+// export async function updateCartItemQuantity(req: Request, res: Response) {
+//     try {
+//         const userId = req.user!.id;
+//         const wineId = req.params.wineId;
+//         const {quantity} = req.body;
+
+//         if(!quantity || quantity < 1){
+//             await 
+//         }
+//     } catch (error) {
+        
+//     }
+// }
