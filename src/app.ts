@@ -8,9 +8,14 @@ import wineRouter from "./routes/wineRouter";
 import userRouter from "./routes/userRouter";
 import orderRouter from "./routes/orderRouter";
 import cartRouter from "./routes/cartRouter";
+import cors from 'cors';
 
 
 const app = express();
+app.use(cors({
+  origin: 'http://localhost:3001'
+}));
+
 
 app.use(express.json());
 const port = config.get<number>("port")

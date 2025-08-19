@@ -1031,3 +1031,116 @@
 2025-08-18 08:51:05 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
 2025-08-18 08:51:07 - [32minfo[39m: [32mConectou no banco de dados[39m
 2025-08-18 08:51:07 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-18 11:54:37 - [31merror[39m: [31mNão foi possível conectar[39m
+2025-08-18 11:54:37 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-08-18 11:54:37 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-18 11:54:52 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-18 11:54:52 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:08:26 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:08:26 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /_next/static/css/app/layout.css?v=1755608524939 404 - - 2.931 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /.well-known/appspecific/com.chrome.devtools.json 404 - - 0.422 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Flayout.tsx 404 - - 0.300 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.352 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Flayout.tsx 404 - - 0.477 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.272 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.225 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.357 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.987 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.406 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.234 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.235 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.524 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.358 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.241 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.487 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.229 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.293 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.240 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.237 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.348 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.244 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.254 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.331 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.304 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.293 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.231 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.232 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.207 ms[39m
+[35m[39m
+2025-08-19 10:08:53 - [35mhttp[39m: [35mGET /__nextjs_source-map?filename=webpack-internal%3A%2F%2F%2F%28rsc%29%2F.%2Fsrc%2Fapp%2Fpage.tsx 404 - - 0.230 ms[39m
+[35m[39m
+2025-08-19 10:08:56 - [35mhttp[39m: [35mGET / 404 - - 0.228 ms[39m
+[35m[39m
+2025-08-19 10:08:56 - [35mhttp[39m: [35mGET /.well-known/appspecific/com.chrome.devtools.json 404 - - 0.234 ms[39m
+[35m[39m
+2025-08-19 10:09:15 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:09:15 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:11:36 - [35mhttp[39m: [35mGET /apiwine 404 - - 2.285 ms[39m
+[35m[39m
+2025-08-19 10:11:42 - [35mhttp[39m: [35mGET /api/wine 200 - - 54.156 ms[39m
+[35m[39m
+2025-08-19 10:11:45 - [35mhttp[39m: [35mGET /apiwine 404 - - 0.534 ms[39m
+[35m[39m
+2025-08-19 10:11:47 - [35mhttp[39m: [35mGET /api/wine 200 - - 29.866 ms[39m
+[35m[39m
+2025-08-19 10:11:52 - [35mhttp[39m: [35mGET /api/wine 200 - - 31.474 ms[39m
+[35m[39m
+2025-08-19 10:12:28 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:12:28 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:12:31 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:12:31 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:12:49 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:12:49 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:12:51 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:12:51 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:13:29 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:13:29 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:13:37 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:13:37 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:13:53 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:13:53 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:14:14 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:14:14 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:14:45 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:14:45 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:14:49 - [32minfo[39m: [32mConectou no banco de dados[39m
+2025-08-19 10:14:49 - [32minfo[39m: [32mAplicação rodando na porta 3000[39m
+2025-08-19 10:14:56 - [35mhttp[39m: [35mGET /api/wine 200 - - 45.827 ms[39m
+[35m[39m
+2025-08-19 10:15:03 - [35mhttp[39m: [35mGET /api/wine 304 - - 32.557 ms[39m
+[35m[39m
+2025-08-19 10:15:08 - [35mhttp[39m: [35mGET /api/wine 304 - - 33.452 ms[39m
+[35m[39m
+2025-08-19 10:15:09 - [35mhttp[39m: [35mGET /api/wine 304 - - 29.212 ms[39m
+[35m[39m
+2025-08-19 10:15:18 - [35mhttp[39m: [35mGET /api/wine 304 - - 33.771 ms[39m
+[35m[39m
