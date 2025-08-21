@@ -1,14 +1,15 @@
 require("dotenv").config();
 import express from "express"
 import config from "config"
-import db from '../config/db'
-import Logger from "../config/logger";
+import db from './config/db'; // para TS
+import Logger from "./config/logger";
 import morganMiddleware from "./middleware/morganMiddleware";
 import wineRouter from "./routes/wineRouter";
 import userRouter from "./routes/userRouter";
 import orderRouter from "./routes/orderRouter";
 import cartRouter from "./routes/cartRouter";
 import cors from 'cors';
+
 
 
 const app = express();

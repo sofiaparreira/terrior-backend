@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import { CartModel } from "../models/Cart";
-import Logger from "../../config/logger";
+import Logger from "../config/logger";
 
 export async function createCart(req: Request, res: Response) {
     try {

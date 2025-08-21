@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import mongoose from "mongoose";
 import { OrderModel } from "../models/Order";
-import Logger from "../../config/logger";
+import Logger from "../config/logger";
 
 
 export async function createOrder(req: Request, res: Response) {

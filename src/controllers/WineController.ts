@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import { WineModel } from "../models/Wine";
-import Logger from "../../config/logger";
+import Logger from "../config/logger";
 
 export async function createWine(req: Request, res: Response) {
     try {

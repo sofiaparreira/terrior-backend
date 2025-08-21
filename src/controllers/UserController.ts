@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import { UserModel } from "../models/User";
-import Logger from "../../config/logger";
+import Logger from "../config/logger";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 import { CartModel } from "../models/Cart";
